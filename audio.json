@@ -1,0 +1,6 @@
+{
+    "entries" : [
+        {"videoURL" : "2019-azerbaijan-grand-prix-race", "audioURL" : "http://feeds.soundcloud.com/stream/623503293-user-716354351-153802496-f1201904azerbaijanracemp3.mp3", "delay" : 19, "playbackRate" : 1.0 },
+        {"videoURL" : "2019-spanish-grand-prix-race", "audioURL" : "http://feeds.soundcloud.com/stream/621082170-makspodzigun-f1podcast-gp-edition-spanishgp2019.mp3", "delay" : -15, "playbackRate" : 2.0 }
+    ]
+} 
