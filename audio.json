@@ -1,4 +1,5 @@
 [
         {"videoURL" : "2019-azerbaijan-grand-prix-race", "audioURL" : "http://feeds.soundcloud.com/stream/623503293-user-716354351-153802496-f1201904azerbaijanracemp3.mp3", "delay" : 19, "playbackRate" : 1.0 },
+        {"videoURL" : "2019-chinese-grand-prix-qualifying", "audioURL" : "https://c10.patreonusercontent.com/3/eyJwIjoxfQ%3D%3D/patreon-media/p/post/27018704/7807b9d3e7a9405cabb687fdea9c853b/2.mp3?token-time=1559779200&token-hash=EUGdt9FZkl5i8lhmckUNAFd2beJOZfc6x82-p7Wqvuc%3D&ext=.mp3", "delay" : 22, "playbackRate" : 1.0 },
         {"videoURL" : "2019-spanish-grand-prix-race", "audioURL" : "http://feeds.soundcloud.com/stream/621082170-makspodzigun-f1podcast-gp-edition-spanishgp2019.mp3", "delay" : -15, "playbackRate" : 0.5 }
 ]
