@@ -1,0 +1,8 @@
+
+[
+        {"videoURL" : "80239920", "levels" : [
+          {"pos" : 0, "volume": 1.0},
+          {"pos" : 8, "volume": 0.2}
+        ] },
+        {"videoURL" : "80239921", "audioURL" : "https://c10.patreonusercontent.com/3/eyJhIjoxLCJwIjoxfQ%3D%3D/patreon-media/p/post/28712832/b8d8a1c64d2849eeacbf93e1bf196917/1.mp3?token-time=2145916800&token-hash=55DhzHaq06H7MDvzumVE7G96iuYIqGhLvp7SoxJbTBk%3D", "delay" : 0, "playbackRate" : 1.0 }
+]
